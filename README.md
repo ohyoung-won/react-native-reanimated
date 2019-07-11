@@ -417,15 +417,6 @@ sqrt(nodeOrNumber)
 The square root of the given node. If the number is negative, an error is thrown.
 
 ---
-### `log`
-
-```js
-log(nodeOrNumber)
-```
-
-The log of the given node.
-
----
 ### `sin`
 
 ```js
